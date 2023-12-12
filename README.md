@@ -1,2 +1,3 @@
 # apnacollege-demo
-firstapnacollegedemo
+This is my first Git Repository.
+Reference-apnacollege
